@@ -1,0 +1,15 @@
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\bin\Debug\net7.0\homework.exe
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\bin\Debug\net7.0\homework.deps.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\bin\Debug\net7.0\homework.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\bin\Debug\net7.0\homework.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.csproj.AssemblyReference.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\refint\homework.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\2 семинар\homework\obj\Debug\net7.0\ref\homework.dll
